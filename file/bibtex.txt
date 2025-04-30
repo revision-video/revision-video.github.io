@@ -1,0 +1,6 @@
+@article{liu2025revision,
+  title={ReVision: High-Quality, Low-Cost Video Generation with Explicit 3D Physics Modeling for Complex Motion and Interaction},
+  author={Liu, Qihao and He, Ju and Yu, Qihang and Chen, Liang-Chieh and Yuille, Alan},
+  journal={arXiv preprint arXiv:},
+  year={2025}
+}
